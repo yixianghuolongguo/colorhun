@@ -1,0 +1,18 @@
+# Godot 4+ specific ignores
+.godot/
+/android/
+.nomedia
+
+# 导入的翻译文件
+*.translation
+# 临时文件
+*.tmp
+~*
+
+# 常见系统/编辑器文件
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/
+*.swp
+*.swo
